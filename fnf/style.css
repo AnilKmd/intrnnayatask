@@ -1,0 +1,43 @@
+body{
+	background-color: #243040;
+	color:white;
+}
+
+input[type=submit]{
+	padding:12px 30px;
+	border-radius: 12px;
+	background-color: #ffad99;
+	color: white;
+	font-size: 20px;
+	margin-right: 20px;
+	cursor: pointer;
+
+}
+.button{
+	padding:12px 30px;
+	border-radius: 12px;
+	background-color: #ffad99;
+	color: white;
+	font-size: 20px;
+	margin-right: 20px;
+	cursor: pointer;
+}
+table{
+    	border-collapse:collapse;
+    	border-color: yellow;
+    	text-align: center;
+    	table-layout: auto;
+    	width:500px;
+    	line-height: 40px;    	
+    }
+th{
+    	background-color: #2193EF;
+    }
+
+input[type=text],[type=number], select {
+		  width: 35%;
+		  padding: 7px;
+		  margin: 8px;
+		  border: 2px solid #ccc;
+		  border-radius: 4px; 
+		}
